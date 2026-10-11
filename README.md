@@ -3,7 +3,7 @@ Clan Capel, comunidad Valdiviana
 
 ## Publicar la página
 
-El workflow de GitHub Actions publica `index.html` en GitHub Pages cada vez que hay cambios en `main`. Después de habilitar Pages con la opción **GitHub Actions** en la configuración del repositorio, la página estará en:
+El workflow de GitHub Actions habilita GitHub Pages y publica `index.html` cada vez que hay cambios en `main`. La página estará en:
 
 https://markbuffalo1.github.io/ClanCAPEL/
 
