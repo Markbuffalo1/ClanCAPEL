@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "capel": {
+      "public": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
